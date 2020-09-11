@@ -1,5 +1,5 @@
 # deepinsight_py
-## Python implementation of the DeepInsight algorithm developed by me https://github.com/xinformatics 
+## Python implementation of the DeepInsight algorithm.
 ### Originally it was developed in MATLAB by the following authors, I own no credit.  
 ### Original Paper: https://www.nature.com/articles/s41598-019-47765-6 Alok Sharma, Edwin Vans, Daichi Shigemizu, Keith A Boroevich, and Tatsuhiko Tsunoda. Deepinsight: A methodology to transform a non-image data to an image for convolution neural network architecture. Scientific reports, 9(1):1–7, 2019
 #### INPUT: TSNE LOCATIONS
